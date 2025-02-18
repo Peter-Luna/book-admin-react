@@ -34,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+项目参考：https://www.bilibili.com/video/BV1Po4y1B7FF?spm_id_from=333.788.videopod.episodes&vd_source=bef0b3d9bf9140261ba529ff362c16fc&p=2
+
+# 错误记录
+
+根据项目的说明，最开始是想用Node14版本，但是运行`npx create-next-app@latest`来安装脚手架的时候报错了，注意到后面的latest，表示使用的是最新版本的nextjs，所以我把Node版本改为了18.18.0，脚手架安装成功
+
